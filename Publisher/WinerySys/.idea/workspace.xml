@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7608e603-697b-4bf1-b430-693e090f706d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Consumer/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/src/main/java/br/com/fiap/winery/client/ApplicationClient2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/target/classes/br/com/fiap/winery/WineStockService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/target/classes/br/com/fiap/winery/WineStockServiceImplementationService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/target/classes/br/com/fiap/winery/WineWarningService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/target/classes/br/com/fiap/winery/WineWarningServiceImplementationService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/target/classes/br/com/fiap/winery/client/ApplicationClient2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/target/generated-sources/wsimport/br/com/fiap/winery/WineStockService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/target/generated-sources/wsimport/br/com/fiap/winery/WineStockServiceImplementationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/target/generated-sources/wsimport/br/com/fiap/winery/WineWarningService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/target/generated-sources/wsimport/br/com/fiap/winery/WineWarningServiceImplementationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/target/jaxws/stale/.618bd6f372926b18887ddef09ed669aab7e4f461" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/target/jaxws/stale/.bb86c45721487c25b2865286c70ec88232beb3d1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineOrderClient/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineStockClient/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineStockClient/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineStockClient/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineStockClient/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineStockClient/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineStockClient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineStockClient/src/main/java/br/com/fiap/winery/client/ApplicationClient1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineStockClient/target/classes/br/com/fiap/winery/WineStockService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineStockClient/target/classes/br/com/fiap/winery/WineStockService_Service.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineStockClient/target/classes/br/com/fiap/winery/client/ApplicationClient1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineStockClient/target/generated-sources/wsimport/br/com/fiap/winery/WineStockService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineStockClient/target/generated-sources/wsimport/br/com/fiap/winery/WineStockService_Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineStockClient/target/jaxws/stale/.bb86c45721487c25b2865286c70ec88232beb3d1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineStockClient/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Consumer/WineStockClient/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/fiap/winery/Loader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/fiap/winery/WineStockService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/fiap/winery/WineStockServiceImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/fiap/winery/WineWarningService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/fiap/winery/WineWarningServiceImplementation.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2x6UUqWeiVjm2Q4eFEzHqs6xpPo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Loader.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/LC/Documents/Winery/Publisher/WinerySys",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Loader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.fiap.winery.Loader" />
+      <module name="WinerySys" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.fiap.winery.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Loader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7608e603-697b-4bf1-b430-693e090f706d" name="Changes" comment="" />
+      <created>1747258036071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747258036071</updated>
+      <workItem from="1747258037457" duration="3386000" />
+      <workItem from="1747262681326" duration="70000" />
+      <workItem from="1747265264103" duration="671000" />
+      <workItem from="1747266114940" duration="4000" />
+      <workItem from="1747266229023" duration="2493000" />
+      <workItem from="1747269886762" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
